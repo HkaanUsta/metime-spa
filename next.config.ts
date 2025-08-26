@@ -4,7 +4,6 @@ const nextConfig: NextConfig = {
   /* config options here */
 
   basePath: '/metime-spa',
-  assetPrefix: '/metime-spa',
 
   output: 'export',
 
